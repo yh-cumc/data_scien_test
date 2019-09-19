@@ -16,4 +16,10 @@ length(samp)
 
 # Section 2
 
-I can take the mean of the sample, too\! The mean is 0.0767616.
+I can take the mean of the sample, too\! The mean is -0.1586003.
+
+## test result
+
+``` r
+data_rand = rnorm(10, sd = 2)
+```
